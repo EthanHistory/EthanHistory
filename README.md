@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EthanHistory&fontSize=60&desc=Hello%20capsule%20render&fontAlignY=40)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Reference
+- banner  
+  https://github.com/kyechan99/capsule-render#demo
+- 
