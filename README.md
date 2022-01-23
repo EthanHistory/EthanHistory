@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EthanHistory&fontSize=60&desc=Top-down%20learning%20for%20fun,%20bottom-up%20learning%20for%20logic&fontAlignY=40)
 ### Hi there 👋
-I am Inseong Han (Ethan Han), a machine learning engineer.
+I am Inseong Han (Ethan Han), a machine learning engineer.  
 I am mainly interested in solving computer vision and photogrammetry problems.
 
 
@@ -18,7 +18,8 @@ I am mainly interested in solving computer vision and photogrammetry problems.
 <!-- https://hits.seeyoufarm.com/ --> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthanHistory%2FEthanHistory&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/inseong-han/"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&?link=https://www.linkedin.com/in/inseong-han/&link=https://www.linkedin.com/in/inseong-han/"/></a>
+
 <!--
 **EthanHistory/EthanHistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
