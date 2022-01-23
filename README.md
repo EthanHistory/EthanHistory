@@ -1,6 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EthanHistory&fontSize=60&desc=Hello%20capsule%20render&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EthanHistory&fontSize=60&desc=Top-down%20learning%20for%20fun,%20bottom-up%20learning%20for%20logic&fontAlignY=40)
 ### Hi there 👋
+I am Inseong Han (Ethan Han), a machine learning engineer.
+I am mainly interested in solving computer vision and photogrammetry problems.
 
+
+### 
+### Major programming languages ✨
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-3766AB?style=for-the-badge"/></a>
+
+### Skills ✨
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nsight System-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubeflow-2496ED?style=for-the-badge"/></a>
+
+<!-- https://hits.seeyoufarm.com/ --> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthanHistory%2FEthanHistory&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/inseong-han/"/></a>
 <!--
 **EthanHistory/EthanHistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +35,7 @@ Here are some ideas to get you started:
 -->
 
 ### Reference
-- banner  
-  https://github.com/kyechan99/capsule-render#demo
-- 
+- https://github.com/kyechan99/capsule-render#demo
+- https://shields.io/
+- https://hits.seeyoufarm.com/
+- https://simpleicons.org/
