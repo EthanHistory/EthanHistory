@@ -18,7 +18,7 @@ I am mainly interested in solving computer vision and photogrammetry problems.
 <!-- https://hits.seeyoufarm.com/ --> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthanHistory%2FEthanHistory&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&?link=https://www.linkedin.com/in/inseong-han/&link=https://www.linkedin.com/in/inseong-han)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/inseong-han)
 
 <!--
 **EthanHistory/EthanHistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
