@@ -6,14 +6,14 @@ I am mainly interested in solving computer vision and photogrammetry problems.
 
 ### 
 ### Major programming languages ✨
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-3766AB?style=for-the-badge"/></a>
+[![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/C++-3766AB?style=for-the-badge)](https://www.cplusplus.com/)
 
 ### Skills ✨
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nsight System-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubeflow-2496ED?style=for-the-badge"/></a>
+[![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Nsight%20System-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/nsight-systems/)
+[![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+[![](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://www.kubeflow.org/)
 
 <!-- https://hits.seeyoufarm.com/ --> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthanHistory%2FEthanHistory&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
