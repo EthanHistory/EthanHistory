@@ -4,7 +4,7 @@
 
 ## Deep Learning
 
-* [Visualization](deep-learning/visualization/README.md)
+* [Visualization](deep-learning/page-1.md)
   * [NN-SVG](deep-learning/visualization/nn-svg.md)
 * [Batch size](deep-learning/batch-size.md)
 
