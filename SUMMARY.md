@@ -10,7 +10,8 @@
 
 ## Mathmatics
 
-* [Page 2](mathmatics/page-2.md)
+* [Convexity](mathmatics/convexity.md)
+* [Convex Optimization](mathmatics/convex-optimization.md)
 
 ## Computer Vision
 
