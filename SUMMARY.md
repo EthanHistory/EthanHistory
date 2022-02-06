@@ -4,7 +4,9 @@
 
 ## Deep Learning
 
-* [Page 1](deep-learning/page-1.md)
+* [Visualization](deep-learning/visualization/README.md)
+  * [NN-SVG](deep-learning/visualization/nn-svg.md)
+* [Batch size](deep-learning/batch-size.md)
 
 ## Mathmatics
 
