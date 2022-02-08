@@ -86,14 +86,6 @@ convex differentiable function -> non-negative second derivative
 
 {% file src="../.gitbook/assets/convex-functions.pdf" %}
 
-There is also a convenient way to determine a function is convex.
-
-**a function f(x) is convex iff f''(x) is non-negative**
-
-If you know the geometrical meaning of the deivative (the slope of the tangent to at the point), the above proposition makes sense to you, drawing few qudratic functions of one variable like Figure 1. For example, if a function have a positive second derivative over any x, the first derivative increase over x. Shortly after, you would imagine a function where the epigraph comes out to be a convex shape like Figure 1.
-
-the proof of this proposition in forward direction (the second derivative is non-negative -> convex function) is quite complicate, so I referred an exist proof. &#x20;
-
 ### Epigraph
 
 * Definition
