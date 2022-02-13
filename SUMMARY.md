@@ -4,15 +4,19 @@
 
 ## Deep Learning
 
+* [Why deep learning?](deep-learning/why-deep-learning.md)
+* [Perceptron](deep-learning/perceptron.md)
+* [Batch size](deep-learning/batch-size.md)
+* [Shuffle](deep-learning/shuffle.md)
+* [Multi Layered Perceptron (MLP)](deep-learning/multi-layered-perceptron-mlp.md)
 * [Visualization](deep-learning/page-1.md)
   * [NN-SVG](deep-learning/visualization/nn-svg.md)
-* [Batch size](deep-learning/batch-size.md)
 
 ## Mathmatics
 
 * [Convexity](mathmatics/convexity.md)
 * [Convex Optimization](mathmatics/convex-optimization.md)
 
-## Computer Vision
+***
 
-* [Page 3](computer-vision/page-3.md)
+* [Epoch vs Iteration vs Batch](epoch-vs-iteration-vs-batch.md)
