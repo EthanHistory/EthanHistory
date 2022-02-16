@@ -20,3 +20,14 @@
 ***
 
 * [Epoch vs Iteration vs Batch](epoch-vs-iteration-vs-batch.md)
+
+## MLOps
+
+* [What & Why MLOps matters?](mlops/what-and-why-mlops-matters.md)
+
+***
+
+* [MLflow](mlflow.md)
+* [Seldon Core](seldon-core.md)
+* [Kubenetes](kubenetes/README.md)
+  * [Sidecar Container](kubenetes/sidecar-container.md)
