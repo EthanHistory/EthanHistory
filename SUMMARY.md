@@ -5,10 +5,10 @@
 ## Deep Learning
 
 * [Why deep learning?](deep-learning/why-deep-learning.md)
-* [Perceptron](deep-learning/perceptron.md)
+* [From Perceptron to Deep Nerual Networks](deep-learning/from-perceptron-to-deep-nerual-networks.md)
+* [Back propagation](deep-learning/back-propagation.md)
 * [Batch size](deep-learning/batch-size.md)
 * [Shuffle](deep-learning/shuffle.md)
-* [Multi Layered Perceptron (MLP)](deep-learning/multi-layered-perceptron-mlp.md)
 * [Visualization](deep-learning/page-1.md)
   * [NN-SVG](deep-learning/visualization/nn-svg.md)
 
