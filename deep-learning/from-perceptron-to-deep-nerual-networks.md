@@ -18,27 +18,33 @@ the nerual network can vary depending on the type of activation function, the nu
 
 
 
-### Multiple layered perceptron (Nerual Network)
+### Multiple layered perceptron (Neural Network)
 
-Introducing multiple layers of perceptron, you can build **multi layered perceptron** which is nerual **networks**. how many layers you put into your nerual networks decides the number of hidden layers which is the layers between input layer and output layer. The basic nerual network is Single Layer Nerual Netowork like below image. There are additional weights and hidden nodes, and the forward propagation regime is consistently used through the network but pipelined.
+Introducing multiple layers of perceptron, you can build **multi layered perceptron** which is neural **networks**. how many layers you put into your neural networks decides the number of hidden layers which is the layers between input layer and output layer. The basic neural network is Single Layer Neural Network like below image. There are additional weights and hidden nodes, and the forward propagation regime is consistently used through the network but pipelined.
 
 ![](../.gitbook/assets/image.png)
 
-### Deep Nerual Networks
+### Deep Neural Networks
 
 ![](../.gitbook/assets/deep.PNG)
 
-if you stack more than one layer into your nerual networks, it becomes deep nerual networks.
+if you stack more than one layer into your neural networks, it becomes deep neural networks.
 
-The deeper layers you create, The complicate relationship between input and output you can describe. However, how to decide the number of hidden layers is very hard and complicate question. It is no wonder because even a single layer nerual network has a power to approximate any relationship between input and output according to Universial Approximation Theorem. Therefore, at the first place, it seems there is no reason to put more than one layer. ([https://en.wikipedia.org/wiki/Universal\_approximation\_theorem](https://en.wikipedia.org/wiki/Universal\_approximation\_theorem))
+The deeper layers you create, The complicate relationship between input and output you can describe. However, how to decide the number of hidden layers is very hard and complicate question. It is no wonder because even a single layer neural network has a power to approximate any relationship between input and output according to Universal Approximation Theorem. Therefore, at the first place, it seems there is no reason to put more than one layer. ([https://en.wikipedia.org/wiki/Universal\_approximation\_theorem](https://en.wikipedia.org/wiki/Universal\_approximation\_theorem))
 
 {% hint style="info" %}
-**Universial Approximation Theorem**\
+**Universal Approximation Theorem**\
 ****\
 **"A feedforward network with a single layer is sufficient to approximate, to an arbitrary precision, any continuous function"**
 {% endhint %}
 
-####
+{% hint style="info" %}
+Feedforward Neural Network
+
+A form of acyclic neural network.
+
+
+{% endhint %}
 
 ### Reference
 
