@@ -12,6 +12,10 @@
 * [Visualization](deep-learning/page-1.md)
   * [NN-SVG](deep-learning/visualization/nn-svg.md)
 
+## Computer Vision
+
+* [Hough Transformation](computer-vision/hough-transformation.md)
+
 ## Mathmatics
 
 * [Convexity](mathmatics/convexity.md)
