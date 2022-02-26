@@ -35,3 +35,7 @@
 * [Seldon Core](seldon-core.md)
 * [Kubenetes](kubenetes/README.md)
   * [Sidecar Container](kubenetes/sidecar-container.md)
+
+## Programming
+
+* [Dynamic programming](programming/dynamic-programming.md)
