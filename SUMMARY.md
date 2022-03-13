@@ -38,5 +38,8 @@
 
 ## Programming
 
-* [Page 1](programming/page-1.md)
+* [Priority Queue](programming/priority-queue/README.md)
+  * [Naive implementation](programming/priority-queue/naive-implementation.md)
+  * [Binary Heap](programming/priority-queue/binary-heap.md)
+* [Top-down vs Bottom-up](programming/top-down-vs-bottom-up.md)
 * [Dynamic programming](programming/dynamic-programming.md)
