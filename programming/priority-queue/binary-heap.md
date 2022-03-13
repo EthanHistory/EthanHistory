@@ -16,9 +16,9 @@ the process of creating a heap data structure from a binary tree. It is used to 
 # binary max heap implementation without recursion
 class binaryMaxHeap:
     def __init__(self, arr=[]):
-        self.heap = arr
-        if len(self.heap) > 0:
-            self.heafify(0)
+        self.heap = []
+        for elem in arr:
+          self.insert(elem)
     
     def __parent(self, i : int) -> int:
         return (i - 1) // 2
@@ -32,57 +32,42 @@ class binaryMaxHeap:
     def __up_heap(self, i : int):
         while i > 0:
             p = self.__parent(i)
-            if self.heap[i] > self.heap(p):
+            if self.heap[i] > self.heap[p]:
                 self.heap[i], self.heap[p] = self.heap[p], self.heap[i]
+                i = p
             else:
                 break
-    def __largest_swap(self, i : int) -> int:
+    
+    def __down_heap(self, i : int):
+        while True:
             largest = i
             left = self.__lchild(i)
             right = self.__rchild(i)
             if left < len(self.heap):
-                if self.heap[left] > self.heap[i]:
+                if self.heap[left] > self.heap[largest]:
                     largest = left
     
             if right < len(self.heap):
-                if self.heap[right] > self.heap[i]:
+                if self.heap[right] > self.heap[largest]:
                     largest = right
             
             self.heap[largest], self.heap[i] = self.heap[i], self.heap[largest]
-            return largest
-    
-    def __down_heap(self, i : int):
-        curr = i
-        while True:
-            next = self.__largest_swap(curr)
-            if next == curr:
-                break
+            
+            if largest == i:
+              break
             else:
-                curr = next
-            
-    
-    def __heafify(self, i : int):
-        stack = [i]
-        while len(stack) > 0:
-            parent = stack.pop()
-            self.__largest_swap(parent)
-            
-            left = self.__lchild(parent)
-            if left < len(self.heap):
-                stack.append(left)
-
-            right = self.__rchild(parent)
-            if right < len(self.heap):
-                stack.append(right)
-                            
-    def insert(elem):
+              i = largest
+                
+    def insert(self, elem):
         self.heap.append(elem)
         self.__up_heap(len(self.heap)-1)
     
-    def pull():
+    def pull(self):
         self.heap[0], self.heap[-1] = self.heap[-1], self.heap[0]
         value = self.heap.pop()
         self.__down_heap(0)
+        return value
+
 ```
 
 ###
