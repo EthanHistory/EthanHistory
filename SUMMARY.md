@@ -38,6 +38,9 @@
 
 ## Programming
 
+* [Binary Search Tree](programming/binary-search-tree.md)
+* [Binary Tree](programming/binary-tree/README.md)
+  * [Balanced Binary Search Tree](programming/binary-tree/balanced-binary-search-tree.md)
 * [Priority Queue](programming/priority-queue/README.md)
   * [Naive implementation](programming/priority-queue/naive-implementation.md)
   * [Binary Heap](programming/priority-queue/binary-heap.md)

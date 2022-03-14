@@ -18,7 +18,7 @@ class binaryMaxHeap:
     def __init__(self, arr=[]):
         self.heap = []
         for elem in arr:
-          self.insert(elem)
+            self.insert(elem)
     
     def __parent(self, i : int) -> int:
         return (i - 1) // 2
@@ -54,9 +54,9 @@ class binaryMaxHeap:
             self.heap[largest], self.heap[i] = self.heap[i], self.heap[largest]
             
             if largest == i:
-              break
+                break
             else:
-              i = largest
+                i = largest
                 
     def insert(self, elem):
         self.heap.append(elem)
