@@ -45,4 +45,6 @@
   * [Naive implementation](programming/priority-queue/naive-implementation.md)
   * [Binary Heap](programming/priority-queue/binary-heap.md)
 * [Top-down vs Bottom-up](programming/top-down-vs-bottom-up.md)
-* [Dynamic programming](programming/dynamic-programming.md)
+* [Dynamic programming](programming/dynamic-programming/README.md)
+  * [Kadane's Algorithm](programming/dynamic-programming/kadanes-algorithm.md)
+* [Analysis of algorithms](programming/analysis-of-algorithms.md)
