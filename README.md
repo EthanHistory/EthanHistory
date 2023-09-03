@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EthanHistory&fontSize=60&desc=Top-down%20learning%20for%20fun,%20bottom-up%20learning%20for%20logic&fontAlignY=40)
 ### Hi there 👋
 I am Inseong Han (Ethan Han), a machine learning engineer.
 
